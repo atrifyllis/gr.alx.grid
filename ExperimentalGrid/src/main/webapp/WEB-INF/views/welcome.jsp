@@ -10,6 +10,7 @@
 <body>
 <h1>
 	Congratulations! You're running Spring!
+	You are the best!
 </h1>
 
 <table id="grid"></table>
